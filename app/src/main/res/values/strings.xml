@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dev Notes</string>
+    <string name="home_tile">Hello Club dos devs</string>
+    <string name="action_save">Salvar Nota</string>
+</resources>
